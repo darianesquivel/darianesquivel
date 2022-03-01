@@ -1,12 +1,11 @@
 ### Hola! 👋 Mi nombre Darian 👩‍💻y soy desarrollador FullStack
 
- 🔭 Actualmente me encuentro trabajando en el proyecto final del bootcamp SoyHenry.
- 🌱 Actualmente me encuentro aprendiendo React Native, Expo, desarrollando una APP.
- 💬 Podes consultarme lo que quieras, me gusta ayudar!
- 📫 Como contactarme:
-    📨 darianesquivelf@gmail.com
-    Linkedin: 
-    [Linkedin](www.linkedin.com/in/darianesquivelin/darian-esquivel-11a21a1a2/).
+ -🔭 Actualmente me encuentro trabajando en el proyecto final del bootcamp SoyHenry.
+ -🌱 Actualmente me encuentro aprendiendo React Native, Expo, desarrollando una APP.
+ -💬 Podes consultarme lo que quieras, me gusta ayudar!
+- 📫 Como contactarme:
+    -📨 darianesquivelf@gmail.com
+    -[Linkedin](www.linkedin.com/in/darianesquivelin/darian-esquivel-11a21a1a2/).
      
 
 
