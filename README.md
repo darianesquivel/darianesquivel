@@ -5,7 +5,8 @@
  - 💬 Podes consultarme lo que quieras, me gusta ayudar!
  - 📫 Como contactarme:
     - 📨 darianesquivelf@gmail.com
-    - [Linkedin](https://www.linkedin.com/in/darian-esquivel-11a21a1a2/).
+    - [Linkedin](https://www.linkedin.com/in/darian-esquivel-11a21a1a2/)
+    - [Portfolio](https://darianesquivel.github.io/CV-Darian-Esquivel/)
      
 
 
