@@ -1,5 +1,17 @@
-### Hi there 👋 I'am Darian 👩‍💻
-<!--
+### Hola! 👋 Mi nombre Darian 👩‍💻y soy desarrollador FullStack
+
+- 🔭 Actualmente me encuentro trabajando en el proyecto final del bootcamp SoyHenry.
+- 
+- 🌱 Actualmente me encuentro aprendiendo React Native, Expo, desarrollando una APP.
+- 
+- 💬 Podes consultarme lo que quieras, me gusta ayudar!
+- 
+- 📫 Como contactarme:
+-     📨 darianesquivelf@gmail.com
+-     Linkedin: linkedin.com/in/darianesquivelin/darian-esquivel-11a21a1a2/
+-     
+
+
 💻
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -16,7 +28,7 @@
 <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
 </div>
 
-
+<!--
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=darianesquivel&theme=blue-green">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darianesquivel&theme=blue-green">
