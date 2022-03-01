@@ -1,4 +1,4 @@
-### Hola! 👋 Mi nombre Darian 👩‍💻y soy desarrollador FullStack
+### Hola! 👋 Mi nombre Darian 👩‍💻 y soy desarrollador FullStack
 
  - 🔭 Actualmente me encuentro trabajando en el proyecto final del bootcamp SoyHenry.
  - 🌱 En este momento estoy aprendiendo React Native, Expo, desarrollando una APP.
