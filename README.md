@@ -8,7 +8,7 @@
 - 
 - 📫 Como contactarme:
 -     📨 darianesquivelf@gmail.com
--     Linkedin: linkedin.com/in/darianesquivelin/darian-esquivel-11a21a1a2/
+-     Linkedin: www.linkedin.com/in/darianesquivelin/darian-esquivel-11a21a1a2/
 -     
 
 
