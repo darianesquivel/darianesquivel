@@ -39,7 +39,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darian-esquivel-11a21a1a2/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://darianesquivel.github.io/CV-Darian-Esquivel/)
 [![Web](https://img.shields.io/badge/Website-4CAF50?style=for-the-badge&logo=web&logoColor=white)](https://www.justdarian.com/)
-📬 ¿Quieres charlar? Escríbeme a [darianesquivelf@gmail.com](mailto:darianesquivelf@gmail.com)
+- 📬 ¿Quieres charlar? Escríbeme a [darianesquivelf@gmail.com](mailto:darianesquivelf@gmail.com)
 </div>
 
 ---
