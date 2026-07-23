@@ -57,12 +57,13 @@ Desarrollador Full Stack enfocado en construir interfaces rápidas, accesibles y
 
 ---
 
-## Estadísticas de GitHub
+## Apps personales
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=darianesquivel&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darianesquivel&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages">
-</p>
+| Proyecto | Enlace |
+| --- | --- |
+| **El Talar** | [www.eltalar.com.ar](https://www.eltalar.com.ar) |
+| **Festoria** | [www.festoria.com.ar](https://www.festoria.com.ar) |
+| **Repnora** | [www.repnora.com.ar](https://www.repnora.com.ar) |
 
 ---
 
